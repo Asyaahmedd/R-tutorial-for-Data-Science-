@@ -1,5 +1,5 @@
 # R Tutorial for Data Science
-This repository contains a set of tutorials and code examples for learning data science with R. The tutorials cover a wide range of topics, including data manipulation, data visualization, statistical analysis, machine learning, and more.
+This repository contains a set of tutorials and code examples for learning data science with R. The tutorials cover a wide range of topics, including data manipulation, data visualization, statistical analysis, linear regression, and more.
 
 # Getting Started
 To get started, you'll need to have R and RStudio installed on your machine. 
